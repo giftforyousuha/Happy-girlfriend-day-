@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Girlfriend's Day</title>
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            background-color: pink; /* यहाँ आप बैकग्राउंड कलर बदल सकते हैं */
+            font-family: 'Arial', sans-serif;
+        }
+        h1 {
+            color: #d63384;
+        }
+        img {
+            max-width: 300px;
+            border-radius: 10px;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Happy Girlfriend's Day [उसका नाम]!</h1>
+    <img src="[तस्वीर का लिंक]" alt="GF Picture">
+    <p>कुछ खास संदेश यहाँ लिखें...</p>
+
+    <audio autoplay loop>
+        <source src="[गाने का लिंक]" type="audio/mp3">
+    </audio>
+
+</body>
+</html>
